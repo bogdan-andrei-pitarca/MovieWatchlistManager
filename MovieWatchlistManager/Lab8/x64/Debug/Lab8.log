@@ -1,0 +1,30 @@
+﻿  Reading Qt configuration (C:/Qt/6.7.1/msvc2019_64/bin/qmake)
+  Movie.cpp
+  Repository.cpp
+  Service.cpp
+  Tests.cpp
+  UI.cpp
+  Utility.cpp
+  Validator.cpp
+  Watchlist.cpp
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\UI.cpp(220,36): warning C4101: 'e': unreferenced local variable
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\Tests.cpp(149,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\Tests.cpp(177,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\Repository.cpp(35,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\Repository.cpp(41,25): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  CSVWatchlist.cpp
+  Exception.cpp
+  FileRepo.cpp
+  FileWatchlist.cpp
+  GUI.cpp
+  HTMLWatchlist.cpp
+  MainGUI.cpp
+  main.cpp
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\GUI.cpp(112,28): warning C4101: 'exception': unreferenced local variable
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\GUI.cpp(146,28): warning C4101: 'e': unreferenced local variable
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\GUI.cpp(276,38): warning C4101: 'e': unreferenced local variable
+C:\Users\bogda\source\repos\MovieWatchlistManager\Lab8\GUI.cpp(290,32): warning C4101: 'e': unreferenced local variable
+  qrc_MainGUI.cpp
+  moc_MainGUI.cpp
+  moc_GUI.cpp
+  Lab8.vcxproj -> C:\Users\bogda\source\repos\MovieWatchlistManager\x64\Debug\Lab8.exe

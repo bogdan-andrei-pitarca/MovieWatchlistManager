@@ -9,17 +9,17 @@ This project presents itself with both a ***User*** and ***Admin*** mode, as wel
 # Features 🪄
 
 * **Admin Mode**:
-  - *Add movies*: Extend the local database by adding a new film.
-  - *Delete movies*: Get rid of unneeded entries.
-  - *Update movies*: Change an existing movie's *title*, *genre*, *year of release*, *number of likes* or *trailer*.
+  - ***Add movies***: Extend the local database by adding a new film.
+  - ***Delete movies***: Get rid of unneeded entries.
+  - ***Update movies***: Change an existing movie's *title*, *genre*, *year of release*, *number of likes* or *trailer*.
 * **User Mode**:
-  - *Browse the database*: Parse through all films (or specifically by genre) and view their trailers.
-  - *Add to watchlist*: Add films to your watchlist, by your liking.
-  - *View your watchlist*: Review your options, in either HTML or CSL format.
-  - *Like & Delete*: Once you watched a certain film, retreive it by index and remove it from your watchlist (leave a like if you enjoyed it!).
+  - ***Browse the database***: Parse through all films (or specifically by genre) and view their trailers.
+  - ***Add to watchlist***: Add films to your watchlist, by your liking.
+  - ***View your watchlist***: Review your options, in either HTML or CSL format.
+  - ***Like & Delete***: Once you watched a certain film, retreive it by index and remove it from your watchlist (leave a like if you enjoyed it!).
 * **Supported Formats**:
-  - *CSL*: A compact, user-friendly format for your watchlist.
-  - *HTML*: A well-structured, visually-appealing web format.
+  - ***CSL***: A compact, user-friendly format for your watchlist.
+  - ***HTML***: A well-structured, visually-appealing web format.
  
 # Prerequisites 
 - A C++ complier with a Qt framework (C++ 17 or higher).
